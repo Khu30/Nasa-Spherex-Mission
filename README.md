@@ -38,5 +38,5 @@ You can deploy the static folder to GitHub Pages, Vercel, or Netlify Drop:
 Go to drop.netlify.com
  (or GitHub Pages).
 Drag and drop the static folder into the browser.
-Netlify will instantly give you a free live public URL (e.g., https://nasa-spherex-explorer.netlify.app).
+Netlify will instantly give you a free live public URL (e.g., https://spherex-mission.netlify.app/).
 Anyone can paste that link into Microsoft Edge on any computer to explore the sky!
