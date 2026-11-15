@@ -1,5 +1,4 @@
 # Nasa-Spherex-Mission
-If someone else (a hackathon judge, teammate, or user) wants to open your project in Microsoft Edge, here is how they can do it:
 
 **Method 1: The Easiest Way (Send them the folder / Open directly in Edge)**
 They do not need to install anything (no Python, no Node.js required):
